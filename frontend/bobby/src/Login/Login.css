@@ -1,0 +1,41 @@
+
+.loginBackground{
+    position: absolute; 
+    top: 0;
+    left: 0;
+    background-image: url('../Assets/bg2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:0;
+    height: 100%;
+    width: 100%;
+}
+form {
+    margin: 20em 40em 0em 40em;
+    height: 18em;
+    padding: 2em;
+    background: rgba(137, 137, 137, 0.8);
+    border-radius: 20px;
+    
+    
+}
+.loginField{
+    
+    margin: 2em auto;
+    text-align: center;
+
+}
+.textField {
+    padding: 2px;
+    margin: 5px;
+    width: 20em;
+    
+}
+.Button {
+    margin: 20px;
+    padding: 200px;
+    width: 20%;
+}
+.tfcont{
+    margin: 20px;
+}
