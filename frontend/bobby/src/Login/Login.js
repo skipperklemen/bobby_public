@@ -11,7 +11,7 @@ class Login extends Component {
             <div className="loginBackground" >
                 <form  autoComplete="off">
                     <div className="loginField">
-                        <Typography component="h1" variant="h4" color="white">
+                        <Typography component="h1" variant="h4" type="dark" color="primary">
                             Sign in
                         </Typography>
                         <div className="tfcont">
