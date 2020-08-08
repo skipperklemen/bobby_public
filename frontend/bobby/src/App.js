@@ -5,6 +5,7 @@ import { blue } from '@material-ui/core/colors/blue'
 import { grey } from '@material-ui/core/colors/grey';
 import { purple } from '@material-ui/core/colors/purple';
 import './App.css';
+import Home from './home/home'
 
 
 
@@ -13,7 +14,7 @@ class App extends Component{
 
     return(
       <div className="App">
-        <Login />
+        <Home />
       </div>
     )
   }
